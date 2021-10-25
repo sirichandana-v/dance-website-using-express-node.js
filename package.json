@@ -1,0 +1,15 @@
+{
+  "name": "dance-academy",
+  "version": "1.0.0",
+  "description": "This is a website for a dance academy",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "siri",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pugs": "0.0.9"
+  }
+}
